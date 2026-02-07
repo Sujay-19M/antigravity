@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/mandarmani-havens//_next/:path+",
-        "destination": "/mandarmani-havens/_next/:path+"
+        "source": "/antigravity//_next/:path+",
+        "destination": "/antigravity/_next/:path+"
       }
     ],
     "fallback": []
