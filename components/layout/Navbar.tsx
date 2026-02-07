@@ -26,7 +26,7 @@ export const Navbar = () => {
         )}>
             <div className="max-w-7xl mx-auto flex justify-between items-center">
                 <Link href="/" className="text-2xl font-display font-bold text-white tracking-tight hover:text-emerald-400 transition-colors z-50 shadow-black/20 drop-shadow-sm">
-                    Mandarmani Haven
+                    Mandarmani Havens
                 </Link>
 
                 {/* Desktop Menu */}

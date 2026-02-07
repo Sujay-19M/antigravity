@@ -9,7 +9,7 @@ export const Footer = () => {
                 {/* Brand Column */}
                 <div className="space-y-6">
                     <Link href="/" className="text-2xl font-display font-bold text-slate tracking-tight hover:text-ocean transition-colors">
-                        Mandarmani Haven
+                        Mandarmani Havens
                     </Link>
                     <p className="text-slate/60 text-sm leading-relaxed max-w-xs">
                         Where luxury meets the rhythmic soul of the sea. Experience the pristine coastline of West Bengal in unmatched comfort.
@@ -53,7 +53,7 @@ export const Footer = () => {
                         </li>
                         <li className="flex items-center gap-3">
                             <Mail className="w-5 h-5 text-ocean shrink-0" />
-                            <a href="mailto:bookings@mandarmanihaven.com" className="hover:text-ocean transition-colors">bookings@mandarmanihaven.com</a>
+                            <a href="mailto:info@mandarmanihavens.com" className="hover:text-ocean transition-colors">info@mandarmanihavens.com</a>
                         </li>
                     </ul>
                 </div>
@@ -71,7 +71,7 @@ export const Footer = () => {
             </div>
 
             <div className="border-t border-slate-100 pt-8 text-center text-sm text-slate/50">
-                <p>© {new Date().getFullYear()} Mandarmani Haven. All rights reserved.</p>
+                <p>© {new Date().getFullYear()} Mandarmani Havens. All rights reserved.</p>
             </div>
         </footer>
     );
