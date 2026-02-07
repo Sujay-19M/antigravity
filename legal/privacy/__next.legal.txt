@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[57945,["/mandarmani-havens/_next/static/chunks/434339a25567095f.js","/mandarmani-havens/_next/static/chunks/99e44a83e9412367.js"],"LegalLayout"]
+3:I[33922,["/mandarmani-havens/_next/static/chunks/86b0033ae09b28e3.js","/mandarmani-havens/_next/static/chunks/cbeeb2424881a7a8.js"],"default"]
+4:I[44050,["/mandarmani-havens/_next/static/chunks/86b0033ae09b28e3.js","/mandarmani-havens/_next/static/chunks/cbeeb2424881a7a8.js"],"default"]
+0:{"buildId":"QUfdHV9CUSxq518QzTThe","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/mandarmani-havens/_next/static/chunks/434339a25567095f.js","async":true}],["$","script","script-1",{"src":"/mandarmani-havens/_next/static/chunks/99e44a83e9412367.js","async":true}]],["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"loading":null,"isPartial":false}
