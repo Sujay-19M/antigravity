@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-lato);
+  --font-display: var(--font-playfair);
+
+  --color-sand: #FAFAF9;
+  --color-whatsapp: #25D366;
+  --color-ocean: #0EA5E9;
+  --color-amber: #F59E0B;
+  --color-slate: #334155;
+
+  --animate-pulse-slow: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+
+  @keyframes pulse {
+
+    0%,
+    100% {
+      opacity: 1;
+    }
+
+    50% {
+      opacity: .5;
+    }
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+  }
+}
+
+body {
+  background: var(--color-sand);
+  color: var(--color-slate);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
