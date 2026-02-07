@@ -2,7 +2,7 @@ import { TLDRSection } from "@/components/legal/TLDRSection";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Privacy Policy | Antigravity",
+    title: "Privacy Policy | Mandarmani Havens",
     description: "Our commitment to your privacy. No tracking, no selling data.",
 };
 

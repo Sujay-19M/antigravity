@@ -14,20 +14,20 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Mandarmani Haven | Coastal Luxury Resort",
-  description: "Experience the rhythmic soul of the sea at Mandarmani Haven. Book direct via WhatsApp for the best rates and instant confirmation. Your perfect coastal escape awaits.",
+  title: "Mandarmani Havens | Coastal Luxury Resort",
+  description: "Experience the rhythmic soul of the sea at Mandarmani Havens. Book direct via WhatsApp for the best rates and instant confirmation. Your perfect coastal escape awaits.",
   keywords: ["Mandarmani Hotel", "Sea View Resort", "Weekend Getaway Kolkata", "Beach Resort West Bengal", "Luxury Stay Mandarmani"],
   openGraph: {
-    title: "Mandarmani Haven | Coastal Luxury Resort",
+    title: "Mandarmani Havens | Coastal Luxury Resort",
     description: "Book direct via WhatsApp for exclusive deals. Experience the pristine coastline in luxury.",
-    url: "https://mandarmanihaven.com",
-    siteName: "Mandarmani Haven",
+    url: "https://mandarmanihavens.com",
+    siteName: "Mandarmani Havens",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mandarmani Haven | Coastal Luxury Resort",
+    title: "Mandarmani Havens | Coastal Luxury Resort",
     description: "Book direct via WhatsApp for exclusive deals. Experience the pristine coastline in luxury.",
   },
   icons: {
